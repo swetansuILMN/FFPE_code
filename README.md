@@ -1,2 +1,2 @@
 # FFPE_code
-for FFPEsig analysis
+CWL for FFPEsig analysis
